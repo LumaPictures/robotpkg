@@ -1,8 +1,22 @@
 @comment Wed Dec 21 15:28:23 CET 2011
 bin/MTIHardTest
-include/MTI-clients/MTComm.h
 include/MTI-clients/MTI.h
+include/MTI-clients/cmt1.h
+include/MTI-clients/cmt2.h
+include/MTI-clients/cmt3.h
+include/MTI-clients/cmtdef.h
+include/MTI-clients/cmtmessage.h
+include/MTI-clients/cmtpacket.h
+include/MTI-clients/cmtscan.h
 include/MTI-clients/periodicTimestampEstimator.h
+include/MTI-clients/pstdint.h
 include/MTI-clients/structMTI.h
+include/MTI-clients/xsens_exception.h
+include/MTI-clients/xsens_fifoqueue.h
+include/MTI-clients/xsens_file.h
+include/MTI-clients/xsens_janitors.h
+include/MTI-clients/xsens_list.h
+include/MTI-clients/xsens_std.h
+include/MTI-clients/xsens_time.h
 lib/libMTI.la
 lib/pkgconfig/MTI-clients.pc
